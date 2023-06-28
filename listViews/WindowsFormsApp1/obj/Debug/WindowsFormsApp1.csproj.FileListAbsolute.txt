@@ -1,0 +1,30 @@
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Саша\Desktop\Экзамен\ООП\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\The_Queen\Desktop\Экз\экзамен\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\listViews\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

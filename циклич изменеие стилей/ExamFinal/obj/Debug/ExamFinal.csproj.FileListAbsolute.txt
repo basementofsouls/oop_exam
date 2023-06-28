@@ -1,0 +1,60 @@
+c:\users\kary\source\repos\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe.config
+c:\users\kary\source\repos\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe
+c:\users\kary\source\repos\ExamFinal\ExamFinal\bin\Debug\ExamFinal.pdb
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csprojResolveAssemblyReference.cache
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\MainWindow.g.cs
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\App.g.cs
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.cache
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.lref
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\MainWindow.baml
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.g.resources
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Properties.Resources.resources
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csproj.GenerateResource.Cache
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csproj.CoreCompileInputs.cache
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.exe
+c:\users\kary\source\repos\ExamFinal\ExamFinal\obj\Debug\ExamFinal.pdb
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe.config
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal.exe
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal.pdb
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\bin\Debug\ExamFinal.exe
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\bin\Debug\ExamFinal.pdb
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csprojResolveAssemblyReference.cache
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\MainWindow.g.cs
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\App.g.cs
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.cache
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.lref
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\MainWindow.baml
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal.g.resources
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal.Properties.Resources.resources
+C:\Users\The_Queen\Desktop\Экз\ExamFinal\ExamFinal\obj\Debug\ExamFinal.csproj.GenerateResource.Cache
+D:\экз\циклич изменеие стилей\ExamFinal\bin\Debug\ExamFinal.exe.config
+D:\экз\циклич изменеие стилей\ExamFinal\bin\Debug\ExamFinal.exe
+D:\экз\циклич изменеие стилей\ExamFinal\bin\Debug\ExamFinal.pdb
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csprojResolveAssemblyReference.cache
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\MainWindow.g.cs
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\App.g.cs
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.cache
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.lref
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\MainWindow.baml
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.g.resources
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.Properties.Resources.resources
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csproj.GenerateResource.Cache
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csproj.CoreCompileInputs.cache
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.exe
+D:\экз\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.pdb
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\bin\Debug\ExamFinal.exe.config
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\bin\Debug\ExamFinal.exe
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\bin\Debug\ExamFinal.pdb
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\App.g.cs
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal_MarkupCompile.lref
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\MainWindow.baml
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.g.resources
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.Properties.Resources.resources
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.exe
+C:\Users\Acer\Downloads\Telegram Desktop\qwe\циклич изменеие стилей\ExamFinal\obj\Debug\ExamFinal.pdb

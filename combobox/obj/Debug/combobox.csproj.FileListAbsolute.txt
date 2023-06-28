@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\ООП\combobox\bin\Debug\combobox.exe.config
+C:\Users\Acer\Desktop\ООП\combobox\bin\Debug\combobox.exe
+C:\Users\Acer\Desktop\ООП\combobox\bin\Debug\combobox.pdb
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.Form1.resources
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.Properties.Resources.resources
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.exe
+C:\Users\Acer\Desktop\ООП\combobox\obj\Debug\combobox.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="Student_name_age.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Student_name_age"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="569">
+    <Grid>
+        <Button Content="Загрузить имя" HorizontalAlignment="Left" Margin="64,0,0,0" VerticalAlignment="Center" Height="88" Width="165" Click="Button_Click"/>
+        <Button Content="Загрузить возраст" HorizontalAlignment="Left" Margin="339,0,0,0" VerticalAlignment="Center" Height="88" Width="165" Click="Button_Click_1"/>
+        <TextBox x:Name="textBoxID" HorizontalAlignment="Left" Margin="200,75,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Введите ID" HorizontalAlignment="Left" Margin="200,54,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

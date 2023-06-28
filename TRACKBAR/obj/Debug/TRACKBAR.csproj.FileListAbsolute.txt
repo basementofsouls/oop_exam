@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\ООП\TRACKBAR\bin\Debug\TRACKBAR.exe.config
+C:\Users\Acer\Desktop\ООП\TRACKBAR\bin\Debug\TRACKBAR.exe
+C:\Users\Acer\Desktop\ООП\TRACKBAR\bin\Debug\TRACKBAR.pdb
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\MainWindow.g.cs
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\App.g.cs
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR_MarkupCompile.cache
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR_MarkupCompile.lref
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\MainWindow.baml
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.g.resources
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.Properties.Resources.resources
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.exe
+C:\Users\Acer\Desktop\ООП\TRACKBAR\obj\Debug\TRACKBAR.pdb
